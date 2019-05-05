@@ -13,8 +13,8 @@
         <activity android:name=".ItemDescriptionActivity" />
         <activity android:name=".ItemAddActivity" />
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".SplashActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
